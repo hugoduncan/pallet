@@ -1,1 +1,1 @@
-pallet is now [here](https://github.com/pallet/pallet)
+pallet is now [here](http://palletops.com/)
